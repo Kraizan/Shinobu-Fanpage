@@ -1,0 +1,69 @@
+body{
+  background-color: #F4F0FC;
+  color: #380042;
+}
+.navbar{
+  background-color: #F9F5FC;
+}
+.home{
+  padding: 15px 1px 15px 1px;
+  background-color: #755faa;
+}
+.shinobu-gif{
+  width: 40%;
+  margin: auto;
+}
+.intro{
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+.blockquote{
+  color: #ffffff;
+  margin-left: 10px;
+  align-self: center;
+}
+.blockquote-footer{
+  color: #D8D8D8;
+}
+.section-head{
+  background-color: #F0E8FF;
+  padding:20px;
+  text-align: center;
+}
+.heading{
+  color: #884196;
+}
+.row-head{
+  color: #592363;
+}
+.personality-row{
+  padding: 30px 100px 30px 100px;
+  text-align: center;
+}
+table td:hover {
+  background-color: #BB8FCE;
+}
+.footer{
+  overflow-x: hidden;
+  background-color: #755faa;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.footer-pic{
+  margin: auto;
+  width: 30%;
+}
+.footer-content{
+  margin: auto;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  width: 50%;
+}
+.links{
+  text-decoration: none;
+}
+.links:hover{
+  text-decoration: underline;
+}
